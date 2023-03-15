@@ -1,5 +1,7 @@
 ## Bem-vindo(a) ao perfil do Caiozera  😁
 
+🌱 Estudando HTML, CSS e Javascript
+
  <div>
    <a href="https://github.com/notzeratv">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=notzeratv&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
